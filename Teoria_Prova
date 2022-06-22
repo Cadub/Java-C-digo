@@ -1,0 +1,21 @@
+Uma vez que tenhamos definido uma classe, múltiplos objetos podem ser construídos a partir dela. 
+
+Dentre os membros que uma classe pode definir, estão os métodos e os atributos. 
+
+Quando uma classe tem mais de uma razão de ser, ou seja, mais de um propósito, dizemos que ela viola o princípio da alta coesão.
+
+Se duas classes têm baixo acoplamento entre si, ambas nao são imediatamente altamente coesas
+
+Um único objeto pode ser referenciado por mais de uma variável de referência.
+
+Métodos getters são aqueles que permitem a obtenção de valores armazenados em variáveis marcadas como private.
+
+sobrecarga de métodos é caracterizada quando uma classe define dois ou mais métodos com nomes iguais. 
+
+Dois métodos de nomes iguais e que pertencem à mesma classe são considerados diferentes pelo compilador quando a sua lista de parâmetros difere no número de parâmetros especificados
+
+Em Java, o operador ternário nao é um tipo de estrutura de repetição.
+
+A linguagem Java oferece três estruturas de repetição: for, while e do/while. Uma computação expressa usando for, pode ser reescrita utilizando-se while.
+
+definimos o método main utilizando uma classe para abrigá-lo
